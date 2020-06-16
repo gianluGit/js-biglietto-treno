@@ -38,6 +38,11 @@ nav .navbar ul li a {
   font-weight: bold;
 }
 
-main .costo-biglietto {
+main .biglietto-int {
   margin-top: 50px;
+}
+
+
+main h2 {
+  margin-top: 80px;
 }

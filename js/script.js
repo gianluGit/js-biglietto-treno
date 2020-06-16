@@ -36,4 +36,5 @@ if (eta < 18) {
 }
 
 // output risultato
-document.getElementById('title').innerHTML = "€" + (risultato).toFixed(2);
+document.getElementById('prezzo-intero').innerHTML = prezzoBiglietto.toFixed(2);
+document.getElementById('title').innerHTML = risultato.toFixed(2);
