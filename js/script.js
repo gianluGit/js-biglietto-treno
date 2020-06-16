@@ -1,7 +1,7 @@
 // Esercizio: calcolo prezzo del biglietto del treno
 var risultato;
 // chiedere all'utente i chilometri che vorrebbe percorrere
-var chilometri = prompt("quanti chilometri vuoi percorrere?");
+var chilometri = parseInt(prompt("quanti chilometri vuoi percorrere?"), 10);
 console.log(chilometri);
 
 // chiedere all'utente l'età
