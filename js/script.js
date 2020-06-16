@@ -36,4 +36,4 @@ if (eta < 18) {
 }
 
 // output risultato
-document.getElementById('title').innerHTML ="Il tuo biglietto ti costerà: €" + (risultato).toFixed(2);
+document.getElementById('title').innerHTML = "€" + (risultato).toFixed(2);
